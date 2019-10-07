@@ -1,4 +1,4 @@
-##chi-square test
+## chi-square test
 
 With observations about two categorical variables determine if they are independent.
 

@@ -1,14 +1,14 @@
-## chi-square test
+## Chi-Square Test For Independence
 
 With observations about two categorical variables determine if they are independent.
 
 example: people's holiday preference: men, beach 
 
+```
 var1: gener = {men|women}
-
 var2: preference = {beach, cruise}
-
 observations = {men:{beach:209, cruise:280},women:{beach:225, cruise: 248}}
+```
 
 The question: is gener independent to preference?
 

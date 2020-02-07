@@ -1,6 +1,6 @@
 ## Chi-Square Test For Independence
 
-With observations about two categorical variables determine if they are independent.
+With observations of two categorical variables determine if they are independent.
 
 example: people's holiday preference: men, beach 
 

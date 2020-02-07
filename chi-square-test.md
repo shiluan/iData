@@ -2,8 +2,9 @@
 
 With observations of two categorical variables determine if they are independent.
 
-example: people's holiday preference: men, beach 
+example: people's holiday preference:
 
+the two variables to be determined if they are independent
 ```
 var1: gener = {men|women}
 var2: preference = {beach, cruise}
